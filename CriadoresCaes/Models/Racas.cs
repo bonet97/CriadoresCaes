@@ -14,7 +14,6 @@ namespace CriadoresCaes.Models
             //Procurar os Cães de cada Raça e criar uma lista com esses cães
             ListaDeCaes = new HashSet<Caes>;
 
-
         }
         /// <summary>
         /// Identificar cada uma das Raças

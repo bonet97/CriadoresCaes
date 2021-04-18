@@ -17,7 +17,7 @@ namespace CriadoresCaes.Models
             //inicializar a lista de Fotografias de cada um dos cães 
             ListaDeFotografias = new HashSet<Fotografias>();
             //inicializar a lista de Criadores de cada um dos cães 
-            ListaDeCriadores = new HashSet<CriadoresCaes>();
+            ListaDeCriadores = new HashSet<CriadoresDeCaes>();
         }
        
         /// <summary>
@@ -93,9 +93,9 @@ namespace CriadoresCaes.Models
         /// 
         /// </summary>
 
-        public ICollection <CriadoresCaes> ListaDeCriadores { get; set; }
+        public ICollection <CriadoresDeCaes> ListaDeCriadores { get; set; }
 
-
+        //fodassseeeee
 
 
 
